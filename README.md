@@ -4,7 +4,7 @@
 
 - 🎓 I'm currently Studying in **Amrita Vishwa Vidyapeetham, Amaravati**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 🔭 I’m currently Volunteering as [Web developer in MLSA AVV Amaravati Community](https://mlsaavvamaravati.wixsite.com/home)
 
