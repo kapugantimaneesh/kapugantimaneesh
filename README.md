@@ -1,27 +1,88 @@
-<h1 align="center">Hi 👋, I'm Maneesh Karthikeya</h1>
-<img align="right" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🎓 I'm currently Studying in **Amrita Vishwa Vidyapeetham, Amaravati**
+# 💫 About Me:
+I'm **Kapuganti Maneesh Karthikeya**, an enthusiastic Computer Science undergraduate and backend developer with a deep passion for Artificial Intelligence and Machine Learning. I specialize in building data-driven web applications and am currently diving deep into **Deep Learning** and **Generative AI** to solve complex, real-world problems.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 🔭 I’m currently Volunteering as [Web developer in MLSA AVV Amaravati Community](https://mlsaavvamaravati.wixsite.com/home)
 
-- 📫 How to reach me **kapugantimaneesh2005@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/maneesh-kapuganti-62049a30b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maneesh-kapuganti-62049a30b" height="30" width="40" /></a>
+<a href="https://instagram.com/maneesh_karthikeya"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+<a href="https://linkedin.com/in/maneeshkapuganti"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+<a href="mailto:kapugantimaneesh2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<div align=center>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapugantimaneesh&count_private=true&theme=react&border_radius=10" alt="kapugantimaneesh" /></p>
+# 💻 Tech Stack:
+<p align="left">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapugantimaneesh&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="kapugantimaneesh" /></p>
-  <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapugantimaneesh&&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="kapugantimaneesh" /></p>
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
+<img src="https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black"/>
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+
+
+# 📊 GitHub Stats:
+
+<table align="center">
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.shion.dev/api?username=kapugantimaneesh&theme=transparent&hide_border=false&include_all_commits=false&count_private=false"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kapugantimaneesh&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=kapugantimaneesh&theme=transparent&hide_border=false"/>
+
+</div>
+
+
+
+
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kapugantimaneesh&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge"/>
+</p>
+
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kapugantimaneesh&theme=onedark&no-frame=true&row=1&column=6"/>
+
 </div>
