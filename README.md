@@ -78,6 +78,7 @@ I'm **Kapuganti Maneesh Karthikeya**, an enthusiastic Computer Science undergrad
   <img src="https://komarev.com/ghpvc/?username=kapugantimaneesh&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge"/>
 </p>
 
+---
 
 ## 🏆 GitHub Trophies
 
